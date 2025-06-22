@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @R3V3N3NT673
+- 👋 Hi, I’m NAYEEM
 - 👀 I’m interested in GAMING
-- 🌱 I’m currently learning CODING
+- 🌱 I’m currently learning CSE
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Tomorrow i'll study, today is tomorrow
   
